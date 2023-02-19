@@ -1,0 +1,14 @@
+.formRow {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.formColumn {
+  flex: 1 1 auto;
+}
+
+.error {
+  text-decoration: line-through;
+}
