@@ -5,6 +5,8 @@ during World War II. It was widely used by the German military to
 encrypt their communications, but was eventually broken by Allied
 codebreakers.
 
+![Screenshot](screenshot.png)
+
 ## Development
 
 ```
